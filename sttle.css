@@ -1,6 +1,10 @@
-.nome{
-    color: red;
+:root{--carlos:#808080;
 }
-*{
-    background-color: black;
+h3{
+    color:black
+}    
+body{
+    background-color:var(--carlos);
 }
+
+    
