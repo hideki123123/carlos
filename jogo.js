@@ -1,4 +1,4 @@
-let numeroSecreto = 9;
+let numeroSecreto = Math.random() * 10;
 
 let chute = '';
 
