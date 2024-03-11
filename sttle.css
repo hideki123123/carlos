@@ -15,6 +15,7 @@ body{
 }
 .foto{
     width: 30%;
+    justify-items: center;
 }
     
 span{
