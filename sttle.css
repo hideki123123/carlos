@@ -3,6 +3,9 @@
 h1{
     color:white;
 }
+h2{
+    color:white;
+}
 body{
     background-color:var(--carlos);
     font-family: "Slackside One", cursive;
