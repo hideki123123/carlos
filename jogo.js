@@ -6,7 +6,7 @@ let chute = '';
 while(chute == ''){
     chute = prompt('Escolha um número de 0 a 10');
 }
-while(!chuteV || chute != ''){
+while(!chuteV || chute = ''){
     if(chute == numeroSecreto){
         alert('Parabéns, você acertou');
         chute = 1;
