@@ -1,7 +1,7 @@
 :root{--carlos:#000000;
 } 
 body{
-    color:white
+    color:white;
     background-color:var(--carlos);
     font-family: "Slackside One", cursive;
     font-weight: 400;
