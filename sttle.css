@@ -6,6 +6,7 @@ h1{
 }
 h2{
     color:white;
+    text-align: center;
 }
 body{
     background-color:var(--carlos);
@@ -16,7 +17,7 @@ body{
 }
 .foto{
     width: 30%;
-    justify-content: center;
+    align-items: center;
 }
     
 span{
