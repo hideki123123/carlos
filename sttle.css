@@ -1,7 +1,7 @@
 :root{--carlos:#000000;
 }
 h3{
-    color:black
+    color:white
 }    
 body{
     background-color:var(--carlos);
@@ -11,7 +11,7 @@ body{
       
 }
 .foto{
-    width: 10%;
+    width: 50%;
 }
     
 span{
