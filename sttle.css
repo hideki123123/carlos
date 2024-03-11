@@ -1,20 +1,17 @@
-:root{--carlos:#000000
-    ;
+:root{--carlos:#000000;
 }
 h3{
     color:black
 }    
 body{
     background-color:var(--carlos);
-    .slackside-one-regular {
-        font-family: "Slackside One", cursive;
-        font-weight: 400;
-        font-style: normal;
-     eraser }
+    font-family: "Slackside One", cursive;
+    font-weight: 400;
+    font-style: normal;
       
 }
 .foto{
-    width: 100;
+    width: 10%;
 }
     
 span{
