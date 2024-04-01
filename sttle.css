@@ -21,8 +21,6 @@ body{
 .Sukuna{
     text-align: center;
 }
-
-    
 span{
     color:darkorange;
 }
@@ -32,4 +30,7 @@ button{
 .contagem-regressiva{
     text-align: center;
     margin: 20px 30px 20px 30px;
+}
+.objetivos{
+    padding: 20px;
 }
