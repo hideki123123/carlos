@@ -3,6 +3,6 @@ console.log(B.length);
 
 let i = 0;
 while(i < B.length){
-    i = i++;
+    i = i + 1;
     console.log(i);
 }
