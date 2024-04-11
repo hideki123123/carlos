@@ -1,5 +1,5 @@
-:root{--carlos:#000000;
-} 
+:root{--carlos:#000000;} 
+
 h1{
     color:white;
     text-align: center;
@@ -13,20 +13,12 @@ body{
     font-family: "Slackside One", cursive;
     font-weight: 400;
     font-style: normal;
-      
 }
-.foto{
-    width: 30%;
-}
-.Sukuna{
-    text-align: center;
-}
-span{
-    color:darkorange;
-}
+
 button{
     text-align: center;
 }
+
 .contagem-regressiva{
     text-align: center;
     margin: 20px 30px 20px 30px;

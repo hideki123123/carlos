@@ -1,8 +1,7 @@
 const B = document.querySelectorAll('.objetivos');
 console.log(B.length);
 
-let i = 0;
-while(i < B.length){
-    i = i + 1;
+
+for(let i = 0; i < B.length; i++){
     console.log(i);
 }
