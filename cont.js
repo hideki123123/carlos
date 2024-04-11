@@ -4,8 +4,6 @@ const textos = document.querySelectorAll('.aba-cont');
 
 
 
-
-
 for(let i = 0; i < B.length; i++){
     console.log(i);
     B[i].onclick = function(){
