@@ -1,4 +1,8 @@
 :root{--carlos:#000000;} 
+.ini{
+    inline-size: 0%;
+}
+
 .names{
     color: white;
 }
