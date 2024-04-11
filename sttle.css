@@ -1,5 +1,7 @@
 :root{--carlos:#000000;} 
 .ini{
+    margin: 0%;
+    padding: 0%;
     display: flex;
 }
 
