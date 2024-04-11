@@ -38,3 +38,6 @@ button{
 .textos{
     color: white;
 }
+.select2{
+    display: block;
+}
