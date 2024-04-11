@@ -3,6 +3,8 @@ console.log(B.length);
 
 for(let i = 0; i < B.length; i++){
     console.log(i);
+    B[i].onclick = function(){
     B[i].classList.add('select');
-    //B[0].classList.remove('select');
+    //B[].classList.remove('select');
+    }
 }
