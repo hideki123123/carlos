@@ -15,7 +15,7 @@ for(let i = 0; i < B.length; i++){
 }
 const contadores = document.querySelectorAll('contador');
 let tempoAtual = new Date();
-let tempoObjetivo1 = nem Date ('2024-04-19T00:00:00');
+let tempoObjetivo1 = new Date ('2024-04-19T00:00:00');
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 let segundos = Math.floor(tempoFinal/1000);
 let minutos = Math.floor(segundos/60);
