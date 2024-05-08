@@ -1,10 +1,10 @@
 let numeroSecreto = Math.floor(Math.random() * 10);
 console.log(numeroSecreto);
 let chuteV = 0;
-let chute = '';
+let chute = '1';
 
 
-while(chute == ''){
+while(chute == '1'){
     chute = prompt('Escolha um número de 0 a 10');
     if(chute == numeroSecreto){
         alert('Parabéns, você acertou');
